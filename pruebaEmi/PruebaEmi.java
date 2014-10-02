@@ -1,11 +1,7 @@
 
 
 void main (){
-  System.out.println ("Hola mundo");  
-
-
-bla bla bola
-
+  System.out.println ("Hola mundo");    
 
 }
 
