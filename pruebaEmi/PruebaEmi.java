@@ -1,1 +1,8 @@
-System.out.println ("Hola mundo");
+
+
+void main (){
+  System.out.println ("Hola mundo");  
+}
+
+
+
